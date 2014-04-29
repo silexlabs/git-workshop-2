@@ -42,7 +42,7 @@ Références utilisées pendant l'atelier
 * git cheat sheet: http://ndpsoftware.com/git-cheatsheet.html 
 * les sous modules http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/ 
 
-
+PROUT Régis
 
 
 
