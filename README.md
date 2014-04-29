@@ -35,7 +35,7 @@ Références utilisées pendant l'atelier
 * article: http://nvie.com/posts/a-successful-git-branching-model/
 * tutoriel: https://www.atlassian.com/git/workflows
 * tutoriel interactif http://try.github.io/ 
-* git cheat cheet: http://ndpsoftware.com/git-cheatsheet.html 
+* git chite chisme cheat cheet: http://ndpsoftware.com/git-cheatsheet.html 
 * les sous modules http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/ 
 
 
