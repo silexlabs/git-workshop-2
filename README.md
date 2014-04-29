@@ -3,7 +3,7 @@ git workshop #2
 
 A repository for the workshop about advanced use go git and github.
 
-lexoyo est passé ici!
+francois est passé ici!
 
 et ici!
 
