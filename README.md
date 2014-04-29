@@ -3,6 +3,8 @@ git workshop #2
 
 A repository for the workshop about advanced use go git and github.
 
+lexoyo est passé ici!
+
 ## A propos
 
 * [workshop blog post](http://www.silexlabs.org/201667/silex/atelier-git-2-utilisation-avancee/)
